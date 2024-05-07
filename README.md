@@ -1,1 +1,1 @@
-# projeto-huddle-base
+# Coloquem informações do projeto aqui!

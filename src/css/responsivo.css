@@ -1,0 +1,61 @@
+@media (max-width: 375px) {
+
+    .container {
+        margin: 0px auto;
+        padding: 0px;
+        background-image: url(../images/bg-mobile.svg);
+        flex-direction: column;
+    }
+
+    .container .logo{
+        width: 150px;
+        margin-left: 20px;
+        margin-top: 25px;
+        margin-bottom: 45px;
+    }
+
+    .container .cont-main {
+        max-width: 300px;
+        flex-direction: column;
+        gap: 30px;
+        margin-left: 40px;
+    }
+
+    .container .cont-main .colum-content {
+        text-align: center;
+    }
+
+    .container .cont-main .colum-content h1{
+        font-weight: 500;
+        font-size: 24px;
+    }
+
+    .container .cont-main .colum-content p{
+        line-height: 23px ;
+        width: 290px;
+        font-size: 16px;
+        font-weight: 200;
+        margin-bottom: 30px;
+    }
+
+    .container .cont-main .colum-content .btn a{
+        font-size: 12px;
+        font-weight: 400;
+        padding: 12px 80px;
+        margin-left: 35px;
+        margin-bottom: 90px;
+    }
+
+    .container .footer{
+        justify-content: center;
+    }
+
+    .container .footer a{
+        margin: 5px;
+        width: 30px;
+        height: 30px;
+        font-size: 13px;
+        margin-bottom: 50px;
+    }
+
+  }
